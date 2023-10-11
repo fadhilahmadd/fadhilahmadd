@@ -6,7 +6,8 @@ Nice to meet ya
 <p align="left">
 <a href="https://github.com/fadhilahmadd">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadhilahmadd&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fadhilahmadd&layout=donut-vertica&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical&langs_count=8&theme=blue-green"/>
+  
 </a>
 </p>
 
