@@ -17,6 +17,7 @@
   </div>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=fadhilahmadd&label=Profile%20Visits&style=for-the-badge" />
   <br>
+  <h3>🤙: Get in touch</h3>
   <a href="https://linkedin.com/in/fadhil-ahmad-604623139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subastiansk" height="30" width="40" /></a>
   <a href="https://portofolio-fadhilahmad.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=63807&format=png" alt="https://portofolio-fadhilahmad.netlify.app/" height="40" width="45" /></a>
 </div>
