@@ -52,7 +52,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadhilahmadd&theme=dark">
     </a>
     <a href="https://github.com/fadhilahmadd">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilahmadd&" alt="fadhilahmadd" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilahmadd&theme=dark" alt="fadhilahmadd" />
     </a>
 </div>
 
