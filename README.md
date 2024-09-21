@@ -48,9 +48,8 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fadhilahmadd&theme=dark">
     </a>
     <a href="https://github.com/fadhilahmadd">
-      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fadhilahmadd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilahmadd&" alt="fadhilahmadd" />
     </a>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhilahmadd&" alt="fadhilahmadd" /></p>
 </div>
 
 <!--horizontal divider(gradiant)-->
