@@ -18,7 +18,7 @@
       />
   </picture>
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=fadhilahmadd&label=Profile%20Visits&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=fadhilahmadd&color=brightgreen" alt="Profile Views" />
   <br>
   <h3>🤙: Get in touch</h3>
   <a href="https://linkedin.com/in/fadhil-ahmad-604623139" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subastiansk" height="30" width="40" /></a>
